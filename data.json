@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "titulo": "Persepolis (Vol. 1)",
+        "tipo": "Quadrinho",
+        "autor": "Marjane Satrapi",
+        "ano": "2003",
+        "midia": "Graphic Novel",
+        "status": "Lido & Favoritado",
+        "imageUrl": "https://m.media-amazon.com/images/I/81QTEsAuINL._AC_UF1000,1000_QL80_.jpg",
+        "descricao": "Autobiografia em quadrinhos sobre a infância no Irã durante a Revolução Islâmica."
+    },
+    {
+        "id": 2,
+        "titulo": "The Dark Side of the Moon",
+        "tipo": "Vinil",
+        "autor": "Pink Floyd",
+        "ano": "1973",
+        "midia": "LP 12''",
+        "status": "Ouvido",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/pt/3/3b/Dark_Side_of_the_Moon.png",
+        "descricao": "Álbum conceitual que explora temas de conflito e ganância. Um clássico do rock psicodélico."
+    },
+    {
+        "id": 3,
+        "titulo": "Maus",
+        "tipo": "Quadrinho",
+        "autor": "Art Spiegelman",
+        "ano": "1986",
+        "midia": "Graphic Novel",
+        "status": "Leitura Essencial",
+        "imageUrl": "https://m.media-amazon.com/images/I/916IgqQ-54L._AC_UF1000,1000_QL80_.jpg",
+        "descricao": "Obra que utiliza animais para retratar a experiência do Holocausto. Editora Nemo."
+    },
+    {
+        "id": 4,
+        "titulo": "Snoopy e Charlie Brown",
+        "tipo": "ActionFigure",
+        "autor": "Peanuts / Charles Schulz",
+        "ano": "2021",
+        "midia": "Figure em Vinil",
+        "status": "Na Estante",
+        "imageUrl": "https://m.media-amazon.com/images/I/61co3DB1rhL._AC_SX679_.jpg",
+        "descricao": "Um lembrete diário sobre a importância da amizade e da contemplação silenciosa. Figura oficial da série Peanuts."
+    },
+    {
+        "id": 5,
+        "titulo": "Kid A",
+        "tipo": "Vinil",
+        "autor": "Radiohead",
+        "ano": "2000",
+        "midia": "LP",
+        "status": "Comprado",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/pt/4/44/KidA.jpg",
+        "descricao": "A trilha sonora para o início de um novo milênio. Marco da música experimental que redefiniu o som da banda."
+    },
+    {
+        "id": 6,
+        "titulo": "O Castelo no Céu",
+        "tipo": "ActionFigure",
+        "autor": "Studio Ghibli",
+        "ano": "1986",
+        "midia": "Miniatura em PVC",
+        "status": "Aguardando nova edição", 
+        "imageUrl": "https://i.pinimg.com/1200x/16/ba/67/16ba6761afa28b2b461be644baed5aed.jpg",
+        "descricao": "Um fragmento do Castelo de Céu. Peça central que ancora a seção Ghibli da coleção."
+    },
+    {
+        "id": 7,
+        "titulo": "Retalhos",
+        "tipo": "Quadrinho",
+        "autor": "Craig Thompson",
+        "ano": "2003",
+        "midia": "Graphic Novel",
+        "status": "Na lista de desejos",
+        "imageUrl": "https://imagens.disal.com.br/produtos/ampliada/1394381.jpg",
+        "descricao": "Autobiografia sobre o primeiro amor e a crise de fé. Um clássico moderno dos quadrinhos independentes."
+    },
+    {
+        "id": 8,
+        "titulo": "Grace",
+        "tipo": "Vinil",
+        "autor": "Jeff Buckley",
+        "ano": "1994",
+        "midia": "LP 12''",
+        "status": "Procurando Edição",
+        "imageUrl": "https://m.media-amazon.com/images/I/712S-LA619L._UF1000,1000_QL80_.jpg",
+        "descricao": "Álbum icônico dos anos 90 que mistura rock alternativo, folk e soul. Essencial para qualquer coleção de vinil."
+    },
+    {
+        "id": 9,
+        "titulo": "Smiski - Living Series",
+        "tipo": "ActionFigure",
+        "autor": "Dreams Inc.",
+        "ano": "2018",
+        "midia": "Figure em Vinil (Glow in the dark)",
+        "status": "Colecionando, faltam 3",
+        "imageUrl": "https://i.pinimg.com/736x/fa/1d/06/fa1d0660a6ba3689664844596e97dfb3.jpg",
+        "descricao": "Pequenos espíritos luminosos que habitam os cantos da casa. Uma busca contínua pelos membros restantes da série."
+    },
+    {
+        "id": 10,
+        "titulo": "Pílulas Azuis",
+        "tipo": "Quadrinho",
+        "autor": "Frederik Peeters",
+        "ano": "2001",
+        "midia": "Graphic Novel",
+        "status": "Lido", 
+        "imageUrl": "https://images.universohq.com/2015/06/PilulasAzuis_des.jpg",
+        "descricao": "HQ autobiográfica delicada e poderosa sobre um relacionamento em que um dos parceiros é soropositivo. Publicado pela Editora Nemo."
+    },
+    {
+        "id": 11,
+        "titulo": "Meu Amigo Totoro - Catbus",
+        "tipo": "ActionFigure",
+        "autor": "Studio Ghibli",
+        "ano": "1988",
+        "midia": "Pelúcia / Figure",
+        "status": "Em Exibição",
+        "imageUrl": "https://i.pinimg.com/1200x/14/2f/e5/142fe52da8d0870bce5ef2966a452d43.jpg",
+        "descricao": "O meio de transporte mais fantástico já concebido, em exibição permanente. Item essencial para qualquer admirador do Studio Ghibli."
+    },
+    {
+        "id": 12,
+        "titulo": "In the Aeroplane Over the Sea",
+        "tipo": "CD",
+        "autor": "Neutral Milk Hotel",
+        "ano": "1998",
+        "midia": "CD com Encarte",
+        "status": "Ouvido",
+        "imageUrl": "https://m.media-amazon.com/images/I/81vaOIWJkcL._UF1000,1000_QL80_.jpg",
+        "descricao": "Um marco do indie folk e lo-fi, conhecido por suas letras surreais e instrumentação única. Um pilar da música alternativa."
+    }
+]

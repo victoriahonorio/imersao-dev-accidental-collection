@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+    <title>The Accidental Collection</title>
+</head>
+<body>
+
+    <header class="header">
+        <h1>Uma Coleção Acidental: Um Inventário de Curiosidades</h1>
+        <p class="subtitle">Um estudo sobre objetos, memórias e a beleza da organização simétrica.</p>
+        
+        <div class="metrics-container">
+            <div id="total-count" class="metric-box">Itens no Acervo: <span>0</span></div>
+            <div id="vinyl-count" class="metric-box">Vinis/Discos: <span>0</span></div>
+            <div id="comics-count" class="metric-box">Graphic Novels: <span>0</span></div>
+            <div id="actionfigure-count" class="metric-box">Figures/Toys: <span>0</span></div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        
+        <section class="filter-section">
+            <h2 class="filter-title">Navegação pelo Acervo</h2>
+            <div class="filter-buttons">
+                <button class="filter-btn" data-filter="all">Exibir Todos</button>
+                <button class="filter-btn" data-filter="Vinil">Capítulo I: Fonogramas</button>
+                <button class="filter-btn" data-filter="Quadrinho">Capítulo II: Narrativas Gráficas</button>
+                <button class="filter-btn" data-filter="ActionFigure">Capítulo III: Artefatos Tridimensionais</button>
+            </div>
+            
+            <input type="text" id="search-input" placeholder="Pesquisar nos arquivos..." class="search-input">
+        </section>
+
+        <section id="collection-grid" class="collection-grid card-container">
+            </section>
+
+    </main>
+    
+    <footer class="footer">
+        <div class="footer-info">
+            <p class="footer-location">Publicado sob os auspícios da Imersão Dev Alura + Google.</p>
+            <p class="footer-author">Uma Produção de Victória Honório</p>
+            <p class="footer-note">Edição e Catálogo do Ano de 2025.</p>
+        </div>
+        
+        <ul class="footer-links">
+            <li class="footer-title">Referências & Aparato Crítico:</li>
+            <li>
+                <a href="https://pixflow.net/blog/the-ultimate-guide-to-wes-andersons-color-palette/" target="_blank">Guia Definitivo: Paleta de Cores (WA)</a>
+            </li>
+            <li>
+                <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter" target="_blank">Lógica: Manipulação de Dados (Array.filter)</a>
+            </li>
+            <li>
+                <a href="https://github.com/victoriahonorio" target="_blank">GitHub</a>
+            </li>
+        </ul>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
